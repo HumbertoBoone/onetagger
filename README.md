@@ -1,5 +1,5 @@
 <p align='center'>
-    <img alt='Logo' src='https://raw.githubusercontent.com/Marekkon5/onetagger/master/assets/onetagger-logo-github.png'>
+    <img alt='Logo ' src='https://raw.githubusercontent.com/Marekkon5/onetagger/master/assets/onetagger-logo-github.png'>
 </p>
 <h1 align='center'>The ultimate cross-platform tagger for DJs</h1>
 
